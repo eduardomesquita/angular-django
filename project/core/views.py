@@ -1,4 +1,5 @@
 from django.views.generic import TemplateView
+from .models import (Sales, Client, Product)
 
 
 class HomeView(TemplateView):
