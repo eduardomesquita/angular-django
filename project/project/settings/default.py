@@ -78,8 +78,8 @@ DATABASES = {
         'NAME': 'products',
         'ENGINE': 'django.db.backends.mysql',
         'USER': 'admin',
-        'PASSWORD': 'mysql-server',
-        'HOST': 'localhost',
+        'PASSWORD': 'admin',
+        'HOST': '1.1.1.1',
         'PORT': '3306',
         'OPTIONS': {
           'autocommit': True,
