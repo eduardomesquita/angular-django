@@ -28,7 +28,7 @@ pyenv activate project
 
 Utilizando o docker e docker-compose:
 
-Entre na pasta do docker dentro do projeto
+Entre na pasta do 'docker' dentro do projeto
 ```bash
 cd docker
 ```
