@@ -32,7 +32,7 @@ Entre na pasta do 'docker' dentro do projeto
 ```bash
 cd docker
 ```
-Subindo o container do mysql
+Subindo o container com o MySQL
 ```bash
 docker-compose up --build
 ```
